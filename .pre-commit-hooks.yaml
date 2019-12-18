@@ -5,4 +5,4 @@
     'files': json
     args: ["--quiet", "--compact"]
     require_serial: false
-    additional_dependencies: ["jsonlint@1.5.1"]
+    additional_dependencies: ["jsonlint@1.6.0"]
